@@ -9,4 +9,4 @@ def cube(x):
     return y
 
 if __name__ == "__main__":
-    print(f"The square of 20 is: {squares(20)}"
+    print(f"The square of 20 is: {squares(20)}")
