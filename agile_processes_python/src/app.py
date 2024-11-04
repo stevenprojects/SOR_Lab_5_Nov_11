@@ -1,6 +1,6 @@
 def squares(x):
     # Perform calculus
-    y = x ** 2
+    y = x ** 2 + 1
     return y
 
 def cube(x):
